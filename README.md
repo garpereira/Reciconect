@@ -1,6 +1,6 @@
 # Reciconect
 
-Projeto de IHC desenvolvido por:
+Projeto da disciplina Interface Humano Computador - Experiência do Usuário UI/UX, da Universidade Federal de São Paulo desenvolvido por:
 
 - André Silva
   - [Email - André Silva](mailto:andre.silva31@unifesp.br)
