@@ -43,9 +43,26 @@ O projeto Reciconect tem como objetivo principal aprimorar a gestão de recursos
 
 O Reciconect será uma ferramenta valiosa para a Cooperativa São Vicente, ajudando-a a enfrentar os desafios logísticos e administrativos que enfrenta atualmente. Ao otimizar a gestão de recursos, a cooperativa poderá aumentar sua eficiência, reduzir custos operacionais, expandir seu impacto na comunidade e promover ainda mais a reciclagem e a sustentabilidade em São José dos Campos.
 
+### **Lista de Interessados**
+
+1. **Orientadora do Projeto**
+   - Maraisa
+
+2. **Desenvolvimento do Projeto**
+    - André Silva
+    - Gabriel Almeida
+    - Igor Vieira
+    - Laís Pereira
+    - Péricles Moritani
+
+3. **Usuários do Sistema**
+    - **Cooperativa:** Gestão de recursos, logística e verificação de sanidade dos processos
+    - **Comunidade:** Pedido de coleta
+    - **Empresas:** Agendamento de coleta ou descarga
+
 ### **Métodos de Pesquisa do Usuário:**
 
-1. **Look (Olhar):** Utilizamos o método "A Day in the Life" para obter uma visão aprofundada da cooperativa. Passamos um dia nas instalações da Cooperativa São Vicente, observando atentamente todos os aspectos de suas operações. Durante essa imersão, acompanhamos os colaboradores em suas tarefas diárias, desde a coleta de resíduos recicláveis até a triagem e a administração. Isso nos permitiu compreender os desafios enfrentados pela cooperativa em primeira mão, identificar pontos de ineficiência e áreas que precisavam de melhorias.
+1. **Look (Olhar):** Utilizamos o método **"A Day in the Life"** para obter uma visão aprofundada da cooperativa. Passamos um dia nas instalações da Cooperativa São Vicente, observando atentamente todos os aspectos de suas operações. Durante essa imersão, acompanhamos os colaboradores em suas tarefas diárias, desde a coleta de resíduos recicláveis até a triagem e a administração. Isso nos permitiu compreender os desafios enfrentados pela cooperativa em primeira mão, identificar pontos de ineficiência e áreas que precisavam de melhorias.
 
 2. **Ask (Perguntar):** Realizamos entrevistas detalhadas com um dos colaboradores responsáveis pela administração da Cooperativa São Vicente. Essa entrevista nos proporcionou insights valiosos sobre os processos administrativos, as dificuldades encontradas no dia a dia e as necessidades específicas da equipe de gestão. Perguntas sobre fluxo de trabalho, controle de estoque, alocação de recursos e desafios logísticos foram discutidas. Além disso, procuramos entender as metas e aspirações da cooperativa a longo prazo.
 
