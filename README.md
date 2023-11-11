@@ -15,8 +15,10 @@ Projeto da disciplina Interface Humano Computador - Experiência do Usuário UI/
   - [Contato](mailto:pericles.izumi@unifesp.br)
 
 ## Atualizações da disciplina
-- [Parte_1](https://github.com/andreqsilva/Reciconect/tree/main/imagens/P1)
-- [Parte_2](https://github.com/andreqsilva/Reciconect/tree/main/imagens/P2)
+- [Parte_1](imagens/P1)
+- [Parte_2](imagens/P2)
+   - [Brainstorming](imagens/P2/Brainstorming)
+   - [Protótipo baixa fidelidade](imagens/P2/Low%20Fidelity%20Prototype)
 
 ## Descrição do projeto
 
