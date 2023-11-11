@@ -1,18 +1,18 @@
 # Reciconect
 
-Projeto de IHC desenvolvido por:
+Projeto da disciplina Interface Humano Computador - Experiência do Usuário UI/UX, da Universidade Federal de São Paulo desenvolvido por:
 
 - André Silva
-  - [Email - André Silva](mailto:andre.silva31@unifesp.br)
+  - [Contato](mailto:andre.silva31@unifesp.br)
 - Gabriel Almeida
-  - [Email - Gabriel Almeida](mailto:garpereira@unifesp.br)
+  - [Contato](mailto:garpereira@unifesp.br)
   - [Linkedin](https://linkedin.com/in/garpereira)
 - Igor Vieira
-  - [Email: Igor Vieira](mailto:igor.vieira@unifesp.br)
+  - [Contato](mailto:igor.vieira@unifesp.br)
 - Laís Pereira
-  - [Email - Laís Pereira](mailto:lais.pereira@unifesp.br)
+  - [Contato](mailto:lais.pereira@unifesp.br)
 - Péricles Moritani
-  - [Email - Péricles Moritani](mailto:pericles.izumi@unifesp.br)
+  - [Contato](mailto:pericles.izumi@unifesp.br)
 
 ## Atualizações da disciplina
 - [Parte_1](https://github.com/andreqsilva/Reciconect/tree/main/imagens/P1)
