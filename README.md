@@ -14,6 +14,10 @@ Projeto de IHC desenvolvido por:
 - Péricles Moritani
   - [Email - Péricles Moritani](mailto:pericles.izumi@unifesp.br)
 
+## Atualizações da disciplina
+- [Parte_1](https://github.com/andreqsilva/Reciconect/tree/main/imagens/P1)
+- [Parte_2](https://github.com/andreqsilva/Reciconect/tree/main/imagens/P2)
+
 ## Descrição do projeto
 
 ### **Nome do Projeto** 
