@@ -1,5 +1,10 @@
 # Funcionamento do Aplicativo Mobile
 
+<video width="300" height="600" controls>
+  <source src="telas/VIDEO.mp4" type="video/mp4">
+  Seu navegador não suporta o formato do vídeo.
+</video>
+
 ### Aqui estão algumas imagens que representam o funcionamento do nosso aplicativo Reciconect, representando a sua versão de Alta Fidelidade:
 
 ## 1. **Tela de Início**
